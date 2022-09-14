@@ -6,7 +6,7 @@
 	<title>Customer Registration Form </title>
 
 	<style>
-		.error {clolor:red}
+		.error {color:red}
 	</style>
 
 </head>
